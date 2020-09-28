@@ -1,0 +1,16 @@
+{
+  "name": "chronolog",
+  "version": "1.0.0",
+  "description": "A time-saving time-consolidation tool for Google Calendar events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allegra Anka",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "googleapis": "^39.2.0"
+  }
+}
